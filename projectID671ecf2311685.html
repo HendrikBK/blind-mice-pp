@@ -37,7 +37,6 @@
         clear: both;
         }
 
-        hr.tb   {width: 45%; margin-left: 27.5%; margin-right: 27.5%;}
         hr.chap {width: 65%; margin-left: 17.5%; margin-right: 17.5%;}
         @media print { hr.chap {display: none; visibility: hidden;} }
         hr.full {width: 95%; margin-left: 2.5%; margin-right: 2.5%;}
@@ -248,6 +247,15 @@
         .smaller {
             font-size: 0.75em;
         }
+        [id^="chapter"] {
+            text-indent: 1em;
+        }
+
+        hr.tb {
+            border: none;
+            margin-top: 1.5em;
+        }
+
         /* Spacing */
         section + section,
         div + section,
