@@ -1,38 +1,30 @@
-BLIND MICE
-
-C. KAY SCOTT
-
-[Blank Page]
-
-
-/*
   BLIND MICE
 
   BY
   C. KAY SCOTT
 
-
   NEW [Illustration] YORK
   GEORGE H. DORAN COMPANY
-*/
 
 
-/*
+
+
   COPYRIGHT, 1921,
   BY GEORGE H. DORAN COMPANY
 
   PRINTED IN THE UNITED STATES OF AMERICA
-*/
 
 
-/*
+
+
   To
 
   OTTO FREDERIC THEIS
 
   FRIEND OF THIS BOOK
   AND OF ITS AUTHOR
-*/
+
+
 
 
 BLIND MICE
@@ -192,7 +184,7 @@ and placed a tureen on the kitchen table. “What kind of soup is it?”
 will get cold--and call John.”
 
 Jim obeyed. John came in from the living room, where he had been
-playing “The Evening Star” from <i>Tannhäuser</i> on the piano, with
+playing “The Evening Star” from _Tannhäuser_ on the piano, with
 many mistakes in the execution, and Lucy put the soup on.
 
 “Sit down,” she commanded. “You know your place, Jim. Where’s Dimmie?”
@@ -452,6 +444,8 @@ of the table.
 “You can wipe the dishes,” she conceded.
 
 
+
+
 II
 
 
@@ -668,7 +662,7 @@ one of the family.”
 Jim, who had been watching Lucy as she passed to and fro from the
 kitchen, answered, “I’m sure it’s very becoming, Mrs. Merwent.”
 
-Nannie made a little <i>moue</i> at John while Jim continued:
+Nannie made a little _moue_ at John while Jim continued:
 
 “We’d better get down town, John. You know Howland is coming at ten
 o’clock to look over the final plans for his house and sign the papers,
@@ -703,6 +697,8 @@ Jim did not answer.
 treated. A woman needs a man to look after her.”
 
 For reply Jim grunted.
+
+
 
 
 III
@@ -958,7 +954,7 @@ Lucy placed the food on the dishes and Nannie carried them to the table.
 “My, that smells good!” John exclaimed boyishly. “What have you got for
 us?” He and Nannie had seated themselves.
 
-“It’s a steak <i>en casserole</i> with mushrooms,” explained Nannie,
+“It’s a steak _en casserole_ with mushrooms,” explained Nannie,
 picking a tiny bit of lint from his sleeve. “I hope you enjoy it. Poor
 boy, how hungry you must be working until this hour of the day!”
 
@@ -985,7 +981,7 @@ dinner.”
 reseated herself.
 
 “Well, as I’m here, I might as well serve the plates,” remarked Nannie.
-“I want to do <i>something</i> to help.”
+“I want to do _something_ to help.”
 
 During the meal John talked of art, his manner youthfully eager, and
 his hair falling over his forehead from which he pushed it back with
@@ -1216,13 +1212,15 @@ He caught her tightly to him.
 “You dear, sweet, foolish, jealous little thing,” he whispered,
 laughing. “The idea! Why you precious darling, I was only trying to be
 nice to your mother on her first day for your sake. Lucy, don’t you
-ever, ever dream for a second that any one could take <i>your</i> place
-for a tiny instant. Why, sweetheart, I <i>love</i> you. I only like
+ever, ever dream for a second that any one could take _your_ place
+for a tiny instant. Why, sweetheart, I _love_ you. I only like
 other people.”
 
 Lucy kissed him.
 
 Soon they were asleep in each other’s arms.
+
+
 
 
 IV
@@ -1404,7 +1402,7 @@ misunderstandings were adjusted and the wedding morning finally arrived.
 Nannie had shown much interest in the more obvious preperations for the
 ceremony, insisting that her gowns must be of such and such a price,
 that her bridesmaids outnumber those of her previously married friends,
-and that the affair as a whole be conducted with an <i>éclat</i> which
+and that the affair as a whole be conducted with an _éclat_ which
 strained the resources of the Lockharts’ reduced finances to the
 uttermost.
 
@@ -1559,7 +1557,7 @@ letter!”
 
 Arthur took out a cigar and lighted it.
 
-“O--oh! <i>Why</i> don’t you say something? I’ll go crazy!” she almost
+“O--oh! _Why_ don’t you say something? I’ll go crazy!” she almost
 screamed.
 
 “I don’t see just what there is to say,” Arthur answered quietly, and
@@ -1766,7 +1764,7 @@ last Nannie appeared on the stairs in her best afternoon frock.
 
 “Why, Mamma,” she exclaimed, “how nice of you! I’m so glad to see you.”
 
-“You kept us waiting long enough if you <i>are</i> glad.”
+“You kept us waiting long enough if you _are_ glad.”
 
 “I was in my bath,” lied Nannie, “and couldn’t come sooner.”
 
@@ -2099,6 +2097,8 @@ all!”
 
 Lucy was white. Without answering she walked past her mother and went
 upstairs to her room.
+
+
 
 
 VII
@@ -2516,6 +2516,8 @@ eyes of John. He rose and reached out his hand to take hers.
 Lucy’s romance had begun.
 
 
+
+
 VIII
 
 
@@ -2817,6 +2819,8 @@ once, won’t you, dear?”
 bewildered by the new aspect which her affairs had taken.
 
 
+
+
 IX
 
 
@@ -2860,7 +2864,7 @@ and the girl’s attitude toward family affairs, Nannie replied to her
 daughter’s letter without consulting him.
 
 “I am only your mother,” Nannie wrote, “so of course it would be
-preposterous to consider <i>me</i> in regard to the step you are
+preposterous to consider _me_ in regard to the step you are
 taking. I have suffered a great deal at the hands of your father but I
 have not lost my pride and self respect yet, and if there was anything
 more you could do to further alienate me, this was it. You forfeited
@@ -2923,7 +2927,7 @@ he spoke.
 Arthur and Mrs. Low, for reasons best known to themselves, were not
 married in Chicago as expected, but at the state capital where Arthur’s
 new practice had begun to flourish. When the notice of the wedding was
-copied by the <i>Russellville Weekly Clarion</i>, another outburst of
+copied by the _Russellville Weekly Clarion_, another outburst of
 gossip occurred, but, as neither of them returned to the place after
 their marriage, it did not disturb them. Arthur made two visits to
 Chicago, and on one of these, not long after Dimmie’s birth, he spent
@@ -3083,7 +3087,7 @@ Sprague? You’re quite a stranger. Lucy thought you had deserted us.”
 “No, I’ve been busy,” he replied, taking her hand and smiling in turn.
 
 When the three entered the dining room, Mrs. Merwent picked up two
-<i>boutonnières</i> from the table and pinned first one on Jim’s coat
+_boutonnières_ from the table and pinned first one on Jim’s coat
 lapel, and then the other on John’s.
 
 “Thank you, Mrs. Merwent,” said Jim.
@@ -3255,7 +3259,7 @@ Northern man.”
 
 Jim seemed amused, and Mrs. Merwent concluded hastily.
 
-“But here I am chattering on about <i>me</i>,” she said, “and you
+“But here I am chattering on about _me_,” she said, “and you
 haven’t told me anything about yourself.”
 
 “There isn’t much to tell, Mrs. Merwent.”
@@ -3291,7 +3295,7 @@ answered gravely.
 that sort.”
 
 “Oh, I’m not at all intellectual or deep. I can’t talk about Bergson
-and books like <i>Jean Christophe</i> that Lucy reads. I’m afraid you
+and books like _Jean Christophe_ that Lucy reads. I’m afraid you
 won’t like poor little me much.”
 
 “There are lots of people I don’t like who talk about philosophy and
@@ -3323,7 +3327,7 @@ your--enthusiasm.”
 “Object?” Jim looked blank.
 
 “Maybe that is the wrong word.” Nannie’s smile grew more meaning. “It
-isn’t every man who enjoys having his wife admired <i>too</i> much.”
+isn’t every man who enjoys having his wife admired _too_ much.”
 
 “If John objects he only needs to say so. I don’t think you quite
 understand the atmosphere of this household yet, Mrs. Merwent.”
@@ -3390,7 +3394,7 @@ Jimmie so!”
 “It has begun to rain, Dimmie. You mustn’t stay out in the rain.
 Where’s Papa?” Lucy was heard saying.
 
-“Dear me! It <i>is</i> raining. I left a coat suit airing in the
+“Dear me! It _is_ raining. I left a coat suit airing in the
 window. I’m packing away my winter things. You will excuse me while I
 go and take it in, Mr. Sprague?” Mrs. Merwent was smiling now, though
 she continued to regard Jim with apprehension.
@@ -3485,6 +3489,8 @@ Nannie appeared on the stairs.
 called rather uneasily.
 
 
+
+
 XI
 
 
@@ -3492,7 +3498,7 @@ John and Nannie entered the dining room together. Jim followed with
 Lucy and Dimmie.
 
 “Did Nannie give you those flowers, Uncle Jim?” Dimmie asked as they
-went through the hall. He reached for the <i>boutonnière</i> which Jim
+went through the hall. He reached for the _boutonnière_ which Jim
 was wearing.
 
 “Yes. Do you want some?” Jim answered, taking the sprig of blossoms
@@ -3539,7 +3545,7 @@ the poetry of Nature without being irritatingly subjective.”
 of greatly admired things make me sick, jammed full of Christian
 sentiment, or reminding one of literary illustrations. Why can’t
 artists stick to their purpose! What was that you said the other
-evening, Jim, about Botticelli’s <i>Spring</i>--that it was both pagan
+evening, Jim, about Botticelli’s _Spring_--that it was both pagan
 and subtle, wasn’t it?”
 
 “Forgotten,” said Jim, who was helping Dimmie to potatoes.
@@ -3569,7 +3575,7 @@ reprimand, “and she won’t be in the future, so let’s not be so formal.”
 An uncomfortable pause followed.
 
 “You’ve dropped your flower, John.” As Nannie spoke at last, she picked
-up the <i>boutonnière</i> from the table and replaced it in the lapel
+up the _boutonnière_ from the table and replaced it in the lapel
 of his coat. “What was that you were saying about art?”
 
 “Oh! Well you know, Nannie, I was just going to say that I don’t have
@@ -3653,13 +3659,13 @@ comparison!”
 
 “Comparisons can be made by inference,” Mrs. Merwent insisted with
 dignity. “Professor Walsh knows all kinds of erudite things and
-<i>he</i> never considers it any condescension to talk to poor little
+_he_ never considers it any condescension to talk to poor little
 me!” she finished.
 
 “Neither do we! What’s got into you, Nannie?” John exclaimed, slightly
 irritated, but laughing.
 
-“I know <i>you</i> don’t, John.” Nannie smiled at him.
+“I know _you_ don’t, John.” Nannie smiled at him.
 
 Lucy rose.
 
@@ -3741,7 +3747,7 @@ be here. Jimmie must have moved it.”
 suggested Lucy.
 
 Mrs. Merwent disappeared into the living room, followed by John, and a
-moment later the strains of Massenet’s <i>Ouvrez tes Yeux</i> floated
+moment later the strains of Massenet’s _Ouvrez tes Yeux_ floated
 in to the dining room.
 
 “Sit down, Jim,” Lucy bade Sprague, who was standing with his hands in
@@ -3770,7 +3776,7 @@ clearly there’s always a way, so let’s not get panicky.”
 shoulders uncomfortably.
 
 The music ceased abruptly but almost immediately began again and Nannie
-sang, <i>Vous Dansez, Marquise</i>.
+sang, _Vous Dansez, Marquise_.
 
 “Give John a little time, Jim. He’ll see more than the rest of us
 before long,” Lucy went on, as though defending her husband from an
@@ -3806,7 +3812,7 @@ entered the dining room.
 
 “I’ve got to get to the office early tomorrow.”
 
-“I thought Mr. Sprague <i>always</i> spent the night,” remarked Nannie.
+“I thought Mr. Sprague _always_ spent the night,” remarked Nannie.
 “Lucy showed me his room.”
 
 “He does,” declared John, and turned to Jim. “You’ll have plenty of
@@ -3858,7 +3864,7 @@ thinking about you at all.”
 “No, he doesn’t consider me intellectual enough to be worth thinking
 about. Professor Walsh is a great deal better educated than Mr.
 Sprague, so I guess I can console myself with the fact that he
-<i>does</i> find me worth talking to.”
+_does_ find me worth talking to.”
 
 Lucy referred again to her recipe book.
 
@@ -3905,7 +3911,7 @@ Mrs. Merwent continued to regard her daughter reproachfully.
 “You don’t know him, Mamma. He’s the very best kind of a man,” Lucy
 went on more gently.
 
-“Yes! I suppose I am incapable of appreciating him. Well, <i>you</i>
+“Yes! I suppose I am incapable of appreciating him. Well, _you_
 seem to at any rate,” Nannie taunted.
 
 Lucy paused ominously.
@@ -3925,6 +3931,8 @@ shortly.
 hint of criticism of him I’d have kept still.”
 
 Lucy said no more.
+
+
 
 
 XII
@@ -3964,7 +3972,7 @@ outlook.
 “I don’t believe in Santa Claus any more, John,” he confessed the first
 Christmas after his faith had forsaken him.
 
-“Well <i>I</i> do!” John answered indignantly. “He’s going to bring me
+“Well _I_ do!” John answered indignantly. “He’s going to bring me
 a new sled too. You’re jealous because he’s not going to bring you
 one.” And John ran away out of earshot of heresy.
 
@@ -4038,7 +4046,7 @@ He advised her to choose plain square brass brackets which he thought
 much prettier than the ornate scrolled gilt ones which she seemed to
 prefer. She hesitated and then looked up at him.
 
-“Well, if <i>you</i> think these are prettier, I’ll take them. Please
+“Well, if _you_ think these are prettier, I’ll take them. Please
 have them sent around to the house this afternoon, for the plumbers are
 coming tomorrow.”
 
@@ -4346,15 +4354,15 @@ replying.
 
 “I hear, but I’ll do as I see fit,” retorted Jim.
 
-“You’ll do as <i>I</i> see fit, or I’ll know the reason why,” snapped
+“You’ll do as _I_ see fit, or I’ll know the reason why,” snapped
 his father.
 
 “Father,” began Jim, “I’m old enough to----”
 
 “Old enough be damned!” Mr. Sprague fairly roared. “You’re old enough
 to do what I tell you until you’re twenty-one years old, and that
-ain’t all--you’ll <i>do</i> what you’re told, if you expect to stay in
-<i>my</i> house!”
+ain’t all--you’ll _do_ what you’re told, if you expect to stay in
+_my_ house!”
 
 Jim rose and seized his hat.
 
@@ -4472,6 +4480,8 @@ walked away with rapid strides. He sought his home when it was daybreak.
 
 The old standards by which Jim had measured values were of no more use
 to him.
+
+
 
 
 XIII
@@ -4826,7 +4836,7 @@ a naturalness and lack of ceremony which he found more flattering than
 the most exaggerated attention.
 
 After his return from Rosedene on the night of his first
-<i>tête-à-tête</i> with Mrs. Merwent, who had rather taken his breath
+_tête-à-tête_ with Mrs. Merwent, who had rather taken his breath
 away by her display of mingled clumsiness and cunning, he sat and
 smoked in silence in his room until very late. An amazing new factor
 had entered his world. As he finally grew sleepy and prepared himself
@@ -4834,6 +4844,7 @@ for bed, he decided that his first problem was to help Lucy in her
 immediate predicament.
 
 “Poor child,” he murmured as he knocked out his last pipe and lay down.
+
 
 
 
@@ -4916,7 +4927,7 @@ even if they are poor.”
 “We don’t belong to the first families.” As Lucy talked she was pulling
 weeds from among some clumps of jonquils.
 
-“Well, <i>you</i> certainly do, and John has told me that his father is
+“Well, _you_ certainly do, and John has told me that his father is
 a distinguished clergyman, and his mother is one of the Montgomerys of
 Virginia.”
 
@@ -4949,7 +4960,7 @@ an approach to irritation.
 “Oh, dear me! Now I’ve done it again! I declare, Lucy, you are
 certainly abnormally sensitive on the subject of Mr. Sprague,” Nannie
 complained, hastening on to prevent a reply, “but it’s certainly dull
-never seeing <i>anybody</i> from one day’s end to another. I don’t mean
+never seeing _anybody_ from one day’s end to another. I don’t mean
 for myself. It makes no difference about me. But for your own sake
 you ought to go out occasionally, and have a few friends in once in a
 while.”
@@ -5025,7 +5036,7 @@ dressed brunette. She was evidently impressed with Nannie.
 
 “I suppose you will find it hard to stay long away from Russellville,
 even to be with your daughter,” remarked the new acquaintance. “Oh, I
-hope to stay a <i>little</i> while yet, Miss Powell,” returned Nannie
+hope to stay a _little_ while yet, Miss Powell,” returned Nannie
 laughing. “It’s been so long since we could arrange it to be together
 and we are both enjoying it,” she declared, becoming serious.
 
@@ -5245,6 +5256,8 @@ days like he’d lost his grandmother. It’ll do him good.”
 Nannie seemed surprised at her ready acquiescence.
 
 
+
+
 XV
 
 
@@ -5254,12 +5267,12 @@ shadows that fell thick on the front of the Winter house and made it
 look cool and inviting. As he came up the walk he saw Mrs. Merwent on
 the front porch.
 
-She wore an elaborate white <i>lingérie</i> dress with a wide lavender
+She wore an elaborate white _lingérie_ dress with a wide lavender
 sash. She had just cut some lilacs from the bush under the dining room
 window and as she mounted the steps she held them out for him to admire.
 
 “I won’t offer you any more flowers, Mr. Sprague,” she began, referring
-to the incident of the <i>boutonnière</i> on the occasion of his first
+to the incident of the _boutonnière_ on the occasion of his first
 visit.
 
 “I’m sorry, Mrs. Merwent. They are certainly pretty,” Jim answered
@@ -5585,7 +5598,7 @@ gone to their room. “She’s so sensitive, Lucy. She talked about the way
 you felt toward her. She doesn’t think you have ever gotten over your
 old hard feelings.”
 
-“It wasn’t <i>my</i> hard feelings, John.” Lucy spoke in an emotionless
+“It wasn’t _my_ hard feelings, John.” Lucy spoke in an emotionless
 tone.
 
 “Now, Lucy,” John remonstrated, “anyone would think that you and I were
@@ -5746,15 +5759,15 @@ that she hates me and that is sufficient to make you idolize her.”
 “But, Mamma, I know lots about her. She is one of Papa’s friends
 and----”
 
-“Yes! That’s it! Anybody <i>he</i> picks up on the street is good
-enough for you. Don’t think of <i>me</i> or my feelings, I beg of you,
+“Yes! That’s it! Anybody _he_ picks up on the street is good
+enough for you. Don’t think of _me_ or my feelings, I beg of you,
 Lucy. Anybody, no matter what her reputation----”
 
 “Mamma, Miss Storms is one of the most distinguished women in the
 United States. Here in Chicago her influence is greater than almost any
 man’s in public life. The whole city is proud of her.”
 
-“How do <i>you</i> know all this?”
+“How do _you_ know all this?”
 
 “Why you only have to read the newspapers. Everybody knows it.”
 
@@ -5798,7 +5811,7 @@ searching through her purse. “All right,” she decided. “What play do
 you want to see?”
 
 “Why it makes no difference to me, Lucy. You choose.” “Nazimova is
-playing <i>Hedda Gabler</i> at the Standard. This is the end of the
+playing _Hedda Gabler_ at the Standard. This is the end of the
 season and just about our last chance,” said Lucy. “I’ve been wanting
 to see the play ever since I read it at Miss Storms’. Shall we go
 there?”
@@ -5821,7 +5834,7 @@ petulantly.
 
 “Mamma, please let’s not quarrel again,” pleaded Lucy. “I’m so tired.”
 
-“I’m sure <i>I’ve</i> not been trying to quarrel. I’ve been as nice as
+“I’m sure _I’ve_ not been trying to quarrel. I’ve been as nice as
 I knew how to be all day. You’re the one who always seems to want to
 quarrel.”
 
@@ -5838,7 +5851,7 @@ Lucy picked up the paper and scanned it.
 
 “There are no musical comedies playing near here, Mamma,” she
 announced. “The only other theatre near enough is giving a revival of
-<i>As You Like It</i>. The rest are too far away for us to get there
+_As You Like It_. The rest are too far away for us to get there
 before the curtain goes up.”
 
 “Well, let’s see Nazimova then,” conceded Mrs. Merwent. “These
@@ -5887,7 +5900,7 @@ on Nannie’s arm, while Dimmie clung to his other hand.
 
 At this juncture Lucy came in with a dish from the kitchen.
 
-“<i>You</i> look like you’d been to a funeral,” said John, regarding
+“_You_ look like you’d been to a funeral,” said John, regarding
 her. “What’s the matter?”
 
 “I have a slight headache, but it’s nothing. Let’s have dinner.”
@@ -5919,7 +5932,7 @@ funny in what I said. And John is laughing too!”
 “No! I think it was cute!” supplemented John warmly. “I like naïveté.
 People are generally so sophisticated.”
 
-'Well, <i>you</i> like me a little, anyway. Don’t you, John?”@
+'Well, _you_ like me a little, anyway. Don’t you, John?”@
 
 “I should say I did, Nannie!”
 
@@ -5967,7 +5980,7 @@ know their own minds.”
 “Like you!” snapped John.
 
 “Dear me,” cooed Nannie, “you two have your little tiffs like other
-people! I had always thought you <i>so</i> happy.”
+people! I had always thought you _so_ happy.”
 
 Lucy burst into tears and left the table.
 
@@ -5978,7 +5991,7 @@ found it locked. He knocked.
 
 “But, Lucy, you shouldn’t get angry at every suggestion Nannie makes.”
 
-“I can’t talk, John. I’m <i>so</i> tired.”
+“I can’t talk, John. I’m _so_ tired.”
 
 John returned to Nannie.
 
@@ -5992,7 +6005,7 @@ again.
 By the time they had cleaned the dishes and undressed Dimmie Nannie had
 reiterated a favorite opinion.
 
-“John, you <i>must</i> get a servant for Lucy. I help her all I can but
+“John, you _must_ get a servant for Lucy. I help her all I can but
 the work is too heavy for her.”
 
 Lucy objected strenuously to the scheme when it was brought up by John
@@ -6027,7 +6040,7 @@ weep.
 blow up at any time,” said John.
 
 “Yes! And her friends blame it on me!” Nannie interrupted. “Mr. Sprague
-and that Miss Storms both told <i>me</i> that Lucy was working too
+and that Miss Storms both told _me_ that Lucy was working too
 hard.”
 
 “I’d be obliged if both of them would attend to their own business,”
@@ -6044,6 +6057,8 @@ threat of hiring a servant. She tried to conceal from him the extent of
 her fear and perplexity as he seemed to regard her concern for their
 affairs as a justification of his intention, and to evade Nannie’s
 persistence was even more difficult.
+
+
 
 
 XVII
@@ -6071,7 +6086,7 @@ Lucy did not reply.
 “I’m worried about finances,” answered Lucy. “Our grocery bills have
 already doubled and extra expenses have more than trebled.”
 
-“Well, I certainly hope that <i>my</i> coming hasn’t had anything to do
+“Well, I certainly hope that _my_ coming hasn’t had anything to do
 with it, Lucy.”
 
 Lucy glanced up hesitatingly. “Well, to be frank, Mamma, we have a good
@@ -6079,7 +6094,7 @@ many people here at odd times since you came,” she said with sudden
 resolution, “and I do wish you wouldn’t always be encouraging John to
 spend money.”
 
-“<i>I</i> encourage John to spend money!” exclaimed Nannie. “I must
+“_I_ encourage John to spend money!” exclaimed Nannie. “I must
 say that’s a considerate way to talk to a guest, especially when it’s
 your own mother, and isolated as I am! You’re very kind and thoughtful.
 Very, Lucy!”
@@ -6098,10 +6113,10 @@ Lucy sighed.
 mean anything you seem to imply, and if you can’t understand, we won’t
 talk any more about it.”
 
-“Oh, very well, Lucy! Of course <i>I’m</i> to blame as usual. <i>I</i>
+“Oh, very well, Lucy! Of course _I’m_ to blame as usual. _I_
 started it. This is the gratitude I get for overlooking the past and
 coming here. Poor Mamma, until the day of her death, never could get
-over the way you treated <i>her</i>, and why should I expect anything
+over the way you treated _her_, and why should I expect anything
 different? Well, it’s just as you like!” Nannie rose and swept into the
 hall.
 
@@ -6109,7 +6124,7 @@ Before she could ascend the stairs, John’s step was heard on the porch
 and the front door was unlocked.
 
 “Hello, Nannie!” he almost shouted. “Get your best bib and tucker on.
-We’re going to see the <i>Madcap Girl</i>! It’s a dandy clear evening.
+We’re going to see the _Madcap Girl_! It’s a dandy clear evening.
 You said you wanted to see it and I’ve got tickets. Where’s Lucy? Let’s
 have dinner at once.” and he passed on into the dining room where
 Nannie followed him.
@@ -6130,12 +6145,12 @@ night!” Again Lucy was silent a moment.
 “All right,” she acquiesced finally.
 
 “You don’t seem very jubilant about it,” commented Nannie, who was now
-all smiles. “<i>I</i> appreciate it,” she added.
+all smiles. “_I_ appreciate it,” she added.
 
 When they were seated at the table John produced the tickets.
 
 “Oh! A box!” cried Nannie, examining them gleefully. “How nice! I’ve
-wanted to see the <i>Madcap Girl</i> for so long!” “It’s certainly a
+wanted to see the _Madcap Girl_ for so long!” “It’s certainly a
 great play, by all accounts,” observed Lucy acidly.
 
 “Why, everybody says the costumes are lovely, and there are some of the
@@ -6143,20 +6158,20 @@ newest dances introduced,” contended Nannie. “I’ve been crazy to see
 it.”
 
 “We can’t afford a box, and besides I’ve no clothes suitable for a
-box.” Lucy’s voice grew sharper with each word. “If you <i>would</i>
+box.” Lucy’s voice grew sharper with each word. “If you _would_
 throw away money, John, why didn’t you pick out something worth seeing?
-I’d rather have seen Ethel Barrymore in <i>Midchannel</i>, even if I
+I’d rather have seen Ethel Barrymore in _Midchannel_, even if I
 sat in the gallery, than this nasty, silly thing in the best box in the
 house!”
 
-“Why, you can see <i>Midchannel</i> too,” interrupted John, somewhat
+“Why, you can see _Midchannel_ too,” interrupted John, somewhat
 crestfallen.
 
 “No, I can’t. We’ve spent twice as much on theatres already this month
 as we ought to in half a year!”
 
 “Well, Lucy, Nannie especially wanted to see this play, and I think we
-ought <i>sometimes</i> to sacrifice our own tastes for her.”
+ought _sometimes_ to sacrifice our own tastes for her.”
 
 “I’m sure I didn’t know John was going to get tickets when I innocently
 said I had wanted to see the play,” said Nannie. “I don’t see that I am
@@ -6168,7 +6183,7 @@ go, say so.”
 
 “Yes, indeed,” chimed in Nannie. “I don’t need to go. It’s not a
 matter of life and death. In fact I have had a little headache anyway,
-although <i>I</i> wouldn’t <i>think</i> of spoiling the evening after
+although _I_ wouldn’t _think_ of spoiling the evening after
 poor, dear John has been so thoughtful.”
 
 “Well, what are you going to do?” demanded John in the captious tone he
@@ -6247,7 +6262,7 @@ right--although it’s dear of you to think of such things, John.”
 When they were seated in the train John said, “Jim is going, too. He
 thought he couldn’t leave his work but I persuaded him.”
 
-“Did you tell him we were <i>all</i> coming?” queried Nannie.
+“Did you tell him we were _all_ coming?” queried Nannie.
 
 “Oh, yes,” John answered.
 
@@ -6431,7 +6446,7 @@ dressing sacque and threw it around her shoulders. Nannie and John sat
 on the edge of the bed and described the supper.
 
 “You don’t know what you missed, Lucy! We had a lobster à la Newburg,
-and the <i>best</i> wine! Sparkling Burgundy, wasn’t it, John? I didn’t
+and the _best_ wine! Sparkling Burgundy, wasn’t it, John? I didn’t
 know you could get wine now. I never ate so much in my life. But dear
 John has such perfect taste in ordering refreshments! We met Miss
 Powell again in the restaurant,” Nannie rattled on, “and she introduced
@@ -6439,18 +6454,18 @@ her brother. That’s how the head waiter let us have the wine. I’m going
 to a theatre with them next week. He’s said to be worth two million
 dollars.” “We missed the last train,” volunteered John.
 
-“We had the <i>best</i> time,” declared Nannie ecstatically.
+“We had the _best_ time,” declared Nannie ecstatically.
 
 “Is your head better?” John inquired of Lucy.
 
-“Yes, poor, dear Lucy! I was <i>so</i> sorry. But I suppose you had a
+“Yes, poor, dear Lucy! I was _so_ sorry. But I suppose you had a
 good time too,” Nannie finished slyly.
 
 “What do you mean, Mamma?”
 
 Nannie laughed.
 
-“Why, you and Mr. Sprague had a fine chance for a <i>tête-à-tête</i>.”
+“Why, you and Mr. Sprague had a fine chance for a _tête-à-tête_.”
 
 “Did Jim stay long?” John asked suddenly.
 
@@ -6493,13 +6508,14 @@ She buried her face in the pillow.
 
 
 
+
 XVIII
 
 
 The morning after John’s theatre party Nannie breakfasted in high
 spirits and when she had done with her meal she made her way into
 the living room to practice the accompaniments to the two songs she
-had admired in the <i>Madcap Girl</i>, the music of which John had
+had admired in the _Madcap Girl_, the music of which John had
 purchased in the theatre entrance after the performance.
 
 Dimmie was amusing himself in the hall.
@@ -6512,7 +6528,7 @@ began drumming on the floor with his heels.
 “Jimmie! Did you hear me? I tell you to stop that noise!” Nannie’s tone
 was one to which Dimmie was a stranger.
 
-“What <i>can</i> I do?” asked the child.
+“What _can_ I do?” asked the child.
 
 “Be still, like a good boy,” his grandmother answered.
 
@@ -6534,7 +6550,7 @@ me.”
 “Do you mean to say that I lie, Jimmie? Don’t you know that it’s very
 rude and wicked to call anybody a liar?”
 
-“Well, you <i>are</i> a liar!” shouted Dimmie in righteous wrath.
+“Well, you _are_ a liar!” shouted Dimmie in righteous wrath.
 
 Lucy, entering from the kitchen, heard the indictment.
 
@@ -6647,7 +6663,7 @@ chair.”
 
 Dimmie dutifully altered his position. After a time he slid to the
 floor and, going over to the side table where some of his nursery books
-were kept, selected <i>Mother Goose</i> from among them.
+were kept, selected _Mother Goose_ from among them.
 
 “Don’t carry your book that way,” warned Nannie as he trudged back to
 the seat he had quitted, his favorite volume hugged under his arm.
@@ -6664,7 +6680,7 @@ fingers into a pocket.
 “Now, don’t sit with your hands in your pockets. You’ll pull your
 clothes all out of shape.”
 
-“How <i>shall</i> I sit?” demanded Dimmie somewhat belligerently.
+“How _shall_ I sit?” demanded Dimmie somewhat belligerently.
 
 “Sit straight in your chair like you ought to.”
 
@@ -6990,6 +7006,8 @@ lifted him to her shoulder and carried him upstairs to bed.
 She did not return.
 
 
+
+
 XIX
 
 
@@ -7200,7 +7218,7 @@ the hall when she heard the front door open.
 
 “Yes,” returned Lucy calmly.
 
-“You ought to be careful, Lucy,” reminded Nannie. “Of course <i>I</i>
+“You ought to be careful, Lucy,” reminded Nannie. “Of course _I_
 wouldn’t say anything to John, but others might.”
 
 “You can say anything you like to him,” retorted Lucy in a disgusted
@@ -7262,13 +7280,15 @@ Thursday night. He’s going to work late tomorrow, I heard him say.”
 “Now, don’t forget,” warned Nannie.
 
 
+
+
 XX
 
 
 Mrs. Merwent came downstairs with a headache, but after her insistent
 complaints elicited some sympathetic remarks from Lucy, she settled
 herself resignedly to mend a small hole in one of the grey silk
-stockings which she had worn to <i>The Madcap Girl</i>. It was a
+stockings which she had worn to _The Madcap Girl_. It was a
 dull day. Lucy picked up the morning paper from the floor where John
 had dropped it as he went out, halted near a window and read aloud
 at random the few items which she thought her mother might find of
@@ -7299,7 +7319,7 @@ comments.”
 Miss Powell or anyone else?”
 
 “I didn’t mean you envied her, either,” explained Lucy. “I only said
-<i>I</i> didn’t.” She spoke over her shoulder as she left the room.
+_I_ didn’t.” She spoke over her shoulder as she left the room.
 
 She had passed up the stairs when the tinkling of the telephone sounded
 from the hall and Nannie rose to answer it.
@@ -7383,7 +7403,7 @@ Jim colored.
 
 “What were we talking about?” he asked, straightening his cravat.
 
-“There! That shows how much attention you pay to <i>me</i>,” she gibed.
+“There! That shows how much attention you pay to _me_,” she gibed.
 “Come on, John! Let’s leave them together.” She rose and moved toward
 the living room.
 
@@ -7431,7 +7451,7 @@ hasn’t kept it up. The reason I didn’t have her voice trained is that
 her ear is not true.”
 
 “I never noticed that and I have overheard her singing a number of
-times,” persisted Jim. “Now take that thing from <i>Butterfly</i> she
+times,” persisted Jim. “Now take that thing from _Butterfly_ she
 is singing now, for instance. She places the difficult intervals with
 absolute precision. And Puccini’s music is tricky.”
 
@@ -7466,9 +7486,9 @@ a chair to Jim.
 know I never sing,” protested Lucy, looking embarrassed. “What were
 you singing?”
 
-“It’s a little thing called <i>Juliet at the Window</i>.”
+“It’s a little thing called _Juliet at the Window_.”
 
-“There’s to be a revival of <i>Romeo and Juliet</i> at the Standard
+“There’s to be a revival of _Romeo and Juliet_ at the Standard
 Theatre next week,” observed John.
 
 “Yes. I saw by the papers that that lithe Hilda Knowlton is going to
@@ -7510,7 +7530,7 @@ girl take the part, and it would generally be considered ridiculous.”
 “Oh, well, if you want to be sarcastic and nasty about it, we better
 not discuss it. I suppose you feel very superior and triumphant over
 having gotten the best of me. I’m sure it makes no difference to me
-how old Juliet is supposed to be. Of course <i>you</i> never make any
+how old Juliet is supposed to be. Of course _you_ never make any
 mistakes, Mr. Sprague.”
 
 “I beg your pardon, Mrs. Merwent, for having ventured to offer an
@@ -7580,6 +7600,8 @@ As he was leaving, Jim grasped Lucy’s hand warmly.
 After he had gone, Lucy came to the dining room door and glanced in at
 Nannie and John. Then she turned away and ascended the stairs. Neither
 of them had noticed her.
+
+
 
 
 XXI
@@ -7698,7 +7720,7 @@ Lucy continued silent.
 “Why don’t you say right out, Lucy, that you don’t want me to have
 anything to do with him?”
 
-“That isn’t true, Mamma, that I don’t want you to see <i>anything</i>
+“That isn’t true, Mamma, that I don’t want you to see _anything_
 of him.”
 
 “I suppose, then, you didn’t send him to kindergarten to get him away
@@ -7720,7 +7742,7 @@ deal of consideration.”
 breathes! Lucy, of all the unjust, unkind things to say, and from my
 own daughter, too! After all I’ve gone through for you! If I’d only
 followed poor Mother’s advice and never come! Well, I’ll tell you this
-much, Lucy, <i>I</i> have some rights in the matter too, and I will not
+much, Lucy, _I_ have some rights in the matter too, and I will not
 have my own grandson poisoned against me!” “Well, I have some rights,
 too!” flared Lucy. “I will not have my child badgered to death by
 anybody!”
@@ -7736,7 +7758,7 @@ breast heaved.
 temporized suddenly. “Anyone would think I was asking permission to
 murder him instead of----”
 
-“That’s exactly what you <i>are</i> doing!” cried Lucy bitterly. “You
+“That’s exactly what you _are_ doing!” cried Lucy bitterly. “You
 would like to murder his soul. You want to interfere with every thought
 and impulse the child has!”
 
@@ -7836,7 +7858,7 @@ Lucy went upstairs.
 “Mamma, did you put away some money that was on the desk in the dining
 room?” she inquired.
 
-“Why, no, Lucy, I <i>never</i> touch <i>anything</i>,” Nannie stated.
+“Why, no, Lucy, I _never_ touch _anything_,” Nannie stated.
 
 “Well, it’s very funny. I laid it down and came up here, and when I
 went back it was gone.”
@@ -7922,8 +7944,8 @@ replied Nannie, holding out her cup for the girl to fill.
 “I’m sure you didn’t, Grace.”
 
 “We’re going to have cold roast and hot potatoes for dinner, Mrs.
-Merwent. How do you like potatoes best? Shall I fix them <i>au
-gratin</i>?” asked Grace, mispronouncing the French very badly.
+Merwent. How do you like potatoes best? Shall I fix them _au
+gratin_?” asked Grace, mispronouncing the French very badly.
 
 “I like scalloped potatoes best,” specified Nannie. “All right. I’ll
 fix ’em that way. And the salad, shall I fix mayonnaise or French
@@ -8029,8 +8051,8 @@ retorted Lucy, her cheeks flushing.
 “Well, Mamma, you certainly ought to know that I am the one to take
 the responsibility in such matters.” “Without considering the wishes
 or comfort of anyone else in the family!” snapped Nannie. “Of course
-I might have known that <i>I</i> needn’t expect to be considered.
-<i>I</i> never count for anything.”
+I might have known that _I_ needn’t expect to be considered.
+_I_ never count for anything.”
 
 “I think the lack of consideration is on your part, Mamma. You don’t
 care if the girl is lazy and inefficient and dishonest. Just so long as
@@ -8097,7 +8119,7 @@ effort to readjust things, instead of putting her in the street.”
 convenience and welfare used to be enough to justify any change I saw
 fit to make in our home.”
 
-“Of course <i>I</i> have changed you into an inconsiderate husband,
+“Of course _I_ have changed you into an inconsiderate husband,
 John,” jeered Nannie.
 
 “Oh, nonsense, Lucy,” answered John irritably. “You are always
@@ -8115,7 +8137,7 @@ Lucy controlled herself with an effort. Tears stood in her eyes.
 than I did.”
 
 “Rot! That’s just an excuse. You don’t like the girl because Nannie
-<i>does</i>. She’s going to stay. I’m not going to hunt up a new girl
+_does_. She’s going to stay. I’m not going to hunt up a new girl
 every week!”
 
 Lucy gave him a look that startled him with its hostility, and left the
@@ -8303,11 +8325,11 @@ come between you and Lucy.”
 “I don’t enjoy quarreling, Nannie, but I’m sick of coming home every
 night and finding a situation like this all fixed up for me.”
 
-“I know it, poor fellow, but you just <i>must</i> promise me that you
+“I know it, poor fellow, but you just _must_ promise me that you
 will be patient till I can bring Lucy to see what she is doing.” Then,
 after a moment, she continued. “I got another letter from Professor
 Walsh today. He is as anxious to have me back as ever, but I can’t bear
-to think of leaving you and Lucy, especially when <i>you</i> need me
+to think of leaving you and Lucy, especially when _you_ need me
 so, John, dear.”
 
 There was a short silence.
@@ -8328,6 +8350,8 @@ meat on the plate. “You’re the one who’s good.”
 “You’re an angel,” declared John.
 
 “Ain’t I goin’ to have any dinner?” asked Dimmie.
+
+
 
 
 XXII
@@ -8423,7 +8447,7 @@ instead of friends, why don’t you say so and be done with it?”
 
 “Well, aren’t we enemies?” Lucy gazed into her mother’s eyes.
 
-“Lucy!” Nannie’s eyes filled with tears. “What in the world <i>is</i>
+“Lucy!” Nannie’s eyes filled with tears. “What in the world _is_
 the matter? Are you crazy?”
 
 “I’m not sure,” answered Lucy in a low voice. “Come on, Lucy,” pleaded
@@ -8439,7 +8463,7 @@ They stood staring at each other.
 Lucy made a motion as if to go.
 
 “Oh, don’t bother to leave!” snapped Nannie angrily. “If my presence is
-so distasteful to you <i>I</i> will go.” And she left the room.
+so distasteful to you _I_ will go.” And she left the room.
 
 When John came home Mrs. Merwent met him at the door and there was a
 short conference between them before he entered the living room alone.
@@ -8453,7 +8477,7 @@ Lucy eyed him without stirring or answering.
 into marrying that Walsh man yet. She heard from him only today, she
 says. I should think you’d have a little pity in your makeup.”
 
-“John,” said Lucy, at last, “you don’t understand or <i>you</i> would
+“John,” said Lucy, at last, “you don’t understand or _you_ would
 have a little pity.”
 
 “Understand what?” he responded irritably. “What has she done?”
@@ -8461,7 +8485,7 @@ have a little pity.”
 “If you can’t see, I doubt if there’s any use telling you.” Lucy’s
 voice was that of one suffering physical pain.
 
-“Well, I’m sure <i>I</i> don’t know what it is, and she says she
+“Well, I’m sure _I_ don’t know what it is, and she says she
 doesn’t. If it’s a little fancied slight, or some such thing, for
 heaven’s sake say what it is, and don’t be babyish.”
 
@@ -8480,7 +8504,7 @@ I can understand each other, she will ruin our home.” “I don’t know
 what you are driving at, Lucy. Nannie said it began with some trifling
 misunderstanding about the servant.”
 
-“It isn’t <i>anything</i> in particular. Oh, John, can’t you see?”
+“It isn’t _anything_ in particular. Oh, John, can’t you see?”
 
 “I sure can’t. I’m blest if I can figure out any reason for all this
 tragic stuff. I didn’t take any stock at first in what Nannie said,
@@ -8511,15 +8535,15 @@ voice was like that of a judge, cold and impersonal.
 
 Tears sprang to Lucy’s eyes.
 
-“Oh, but she <i>has</i>, John. I am <i>not</i> to blame. Oh, why
+“Oh, but she _has_, John. I am _not_ to blame. Oh, why
 can’t you see through her! Look at our home. Look at us. See how
-<i>everything</i> is changed. Even Jim sees it. He realizes----” Lucy
+_everything_ is changed. Even Jim sees it. He realizes----” Lucy
 bit her lip.
 
 “Yes, that’s probably the great trouble. Jim Sprague is more
 sympathetic than I am!”
 
-“Oh, <i>don’t</i>, John,” pleaded Lucy, her eyes darkening.
+“Oh, _don’t_, John,” pleaded Lucy, her eyes darkening.
 
 “Yes. Nannie has been unfortunate enough to object to your showing so
 much interest in him. I had never thought anything about it, but it
@@ -8785,6 +8809,8 @@ and studied the clear eyes and beautiful mouth. Resting his chin on his
 hand he remained so, frowning at the wall.
 
 
+
+
 XXIII
 
 
@@ -8877,7 +8903,7 @@ the other.”
 “John, I’m not to blame!” Lucy uttered this in the form of a statement
 but her tone was tremulously beseeching.
 
-“I’m hanged if <i>I</i> know who’s to blame!” declared John petulantly.
+“I’m hanged if _I_ know who’s to blame!” declared John petulantly.
 “All I’m certain of is that I’ve got about all I can stand of it.” Katy
 rushed breathlessly into the room.
 
@@ -8967,7 +8993,7 @@ tired. John is human like the rest of us, and you are foolish to make a
 mountain out of a mole hill.”
 
 “No, I didn’t misunderstand him, Lucy,” persisted Mrs. Merwent,
-forgetting to cry. “He has <i>never</i> spoken to me in that way
+forgetting to cry. “He has _never_ spoken to me in that way
 before. Something has happened to make him hate me.”
 
 Lucy smiled in spite of herself.
@@ -9042,8 +9068,8 @@ Yow didn’t use to be so sensitive and childish.”
 “Thank you,” he retorted sarcastically.
 
 “Well, you are. Since Mother came you have gotten to be more like her
-every day. I think <i>I</i> am the one who has a hard time. I feel
-sometimes as though I would lose <i>my</i> mind.”
+every day. I think _I_ am the one who has a hard time. I feel
+sometimes as though I would lose _my_ mind.”
 
 “That’s the second time you have said I was changed,” he snapped. “You
 are the one who is changed, and I think I can guess the reason. It’s
@@ -9170,6 +9196,8 @@ her voice again.
 When Lucy entered the room a few moments later John and Mrs. Merwent
 were talking as though there had never been a misunderstanding between
 them.
+
+
 
 
 XXIV
@@ -9463,7 +9491,7 @@ your father?”
 
 “Who? Miss Storms?” interrogated Lucy, in a lame attempt at pleasantry.
 
-“You know whom I mean, Lucy. It’s not funny to me if it <i>is</i> to
+“You know whom I mean, Lucy. It’s not funny to me if it _is_ to
 you.”
 
 “Let’s not discuss Papa’s wife.” Lucy showed that she anticipated an
@@ -9748,7 +9776,7 @@ virtuously. “A woman who has as good a husband as you have should----”
 
 “It’s no use, Nannie,” interrupted John gently, laying his hand on
 Nannie’s arm, “but thank you, all the same. It’s a comfort that
-<i>someone</i> still thinks I’m not a brute.”
+_someone_ still thinks I’m not a brute.”
 
 “John,” Lucy spoke steadily, controlling herself with an effort, “be
 careful what you do. Consider well before you side with my mother
@@ -9775,7 +9803,7 @@ Lucy as she ascended the stairs.
 
 “Lucy acts as if her mind was unbalanced,” he went on.
 
-“Now you see what <i>I</i> have had to bear. It’s the Merwent
+“Now you see what _I_ have had to bear. It’s the Merwent
 characteristic to have a tendency toward melancholia. Lucy’s
 father--but I won’t talk about my own troubles.”
 
@@ -9816,6 +9844,8 @@ no sound.
 
 “All right. Just as you like,” he growled, and went to Jim’s room to
 sleep.
+
+
 
 
 XXV
@@ -10028,7 +10058,7 @@ this deliberate disregarding of my wishes is going to be the last.
 She and I are going to have an understanding once for all.” John’s
 expression was relentless.
 
-“Now, John, dear,” remonstrated Nannie gently, “you <i>must</i> be
+“Now, John, dear,” remonstrated Nannie gently, “you _must_ be
 patient. I know it’s hard, but you know how abnormal Lucy is now. And
 I’m afraid it’s growing on her.”
 
@@ -10136,7 +10166,7 @@ Nannie crept closer to John and took hold of his arm.
 “It seems to me you ought to remember the servant yourself, Lucy,” she
 protested feebly.
 
-“You shall <i>not</i> treat your mother this way!” John had raised his
+“You shall _not_ treat your mother this way!” John had raised his
 voice until it could be heard all over the house.
 
 “No?” Lucy inquired in a curious tone.
@@ -10320,6 +10350,8 @@ After midnight, however, Mrs. Merwent slept soundly, and Lucy attended
 to her own needs.
 
 
+
+
 XXVI
 
 
@@ -10384,7 +10416,7 @@ John hesitated perceptibly before be replied.
 At one o’clock Katy brought up Lucy’s luncheon. During the course
 of the morning Mrs. Merwent had been to the bedroom several times
 to make inquiries regarding her daughter’s condition, but Lucy,
-a cloth wet with <i>eau de Cologne</i> on her forehead, her eyes
+a cloth wet with _eau de Cologne_ on her forehead, her eyes
 closed defensively, had made barely audible replies to her mother’s
 interrogations. Nannie, on these occasions, patted the bed clothes,
 raised and lowered the window shades, and set to rights Lucy’s bureau
@@ -10464,7 +10496,7 @@ kitchen.
 Merwent, bustling out the door. “I won’t be long,” she called back as
 she descended the stairs.
 
-Lucy rubbed her head again with <i>eau de Cologne</i>, lay down on
+Lucy rubbed her head again with _eau de Cologne_, lay down on
 the bed and placed a cloth wet with cold water over her eyes. The
 afternoon was dull and cloudy and it soon began to rain. Soothed by
 the patter of drops on the tiled roof of the veranda just outside her
@@ -10493,7 +10525,7 @@ Lucy started into the hall.
 
 “Lucy, come back,” besought Nannie, following her. “You know Dr.
 Hamilton ordered that you should be perfectly quiet. Don’t go, Lucy.”
-They were at the head of the stairs. “Well, Lucy, if you <i>will</i>
+They were at the head of the stairs. “Well, Lucy, if you _will_
 go, remember that I didn’t ask you to, and did all I could to keep you
 from it.”
 
@@ -10994,7 +11026,7 @@ matter with Lucy? She treats me terribly.”
 “I don’t know what’s to become of us if she keeps on like this,” Nannie
 continued.
 
-“Well, I know what will become of <i>me</i> if it goes on much longer!”
+“Well, I know what will become of _me_ if it goes on much longer!”
 His tone was eloquent.
 
 “Now, John,” Mrs. Merwent placed her hand on the sleeve of his coat.
@@ -11019,6 +11051,8 @@ He returned appreciatively the pressure she gave it, then moved away.
 
 “No. I’m going to take a walk,” he answered. And the door slammed after
 him.
+
+
 
 
 XXVII
@@ -11088,10 +11122,10 @@ weakly on the edge of her bed. She opened the letter.
  indisposition is not serious. You know the cure. Ellen, in particular,
  regrets the impossible circumstances, etc. But why say more of that?@
 
-/*
+
   “Your friend and father,@
   “Arthur Merwent.”
-*/
+
 #/
 
 Lucy sat for some time with the letter in her hand. When she finally
@@ -11118,7 +11152,7 @@ Lucy did not reply. “Where are you going?” Mrs. Merwent persisted.
 
 “No.”
 
-“Well, <i>I</i> don’t think you ought to go. Do you, John?”
+“Well, _I_ don’t think you ought to go. Do you, John?”
 
 “What I think is of little consequence in this house,” answered John.
 He scanned the newspaper at his elbow as he spoke.
@@ -11212,7 +11246,7 @@ smile.
 
 Miss Storms was studying Lucy’s face carefully.
 
-“I see you have been reading <i>Sanin</i>. What do you think of it?”
+“I see you have been reading _Sanin_. What do you think of it?”
 “I didn’t read much,” Lucy confessed. “You said that if ever I was in
 trouble I must come to you.”
 
@@ -11338,7 +11372,7 @@ Miss Storms kissed her cheek.
 
 “The only thing is to get rid of your mother, no matter what the
 difficulties are,” Miss Storms resumed in a practical tone. “Oh,
-<i>why</i> doesn’t that Mr. Walsh say or do something! At all events we
+_why_ doesn’t that Mr. Walsh say or do something! At all events we
 must get her away. And then you musn’t even forgive John. You must put
 the past out of your mind--never give it a thought. It must disappear
 as if it had never existed. Make all the responsibility yours. John
@@ -11409,6 +11443,8 @@ cheeks, but she made no sound.
 Finally she rose and turned her steps toward the office.
 
 
+
+
 XXVIII
 
 
@@ -11473,7 +11509,7 @@ it until she winced.
 “I’ve never been too honest with myself about you, Lucy, but I knew I
 loved you a long time ago. I’ve resented seeing your youth slipping by,
 and John not noticing it, I’ve tried not to covet his wife, because I
-thought he wanted her. But now I’ve got to tell you, Lucy. <i>I</i>
+thought he wanted her. But now I’ve got to tell you, Lucy. _I_
 want you. And I don’t want just a mystical idea of you either. I love
 you, dear, and you won’t have to be afraid of my ever stopping. Let’s
 leave the people who don’t want us and take each other. We know we’re
@@ -11803,7 +11839,7 @@ so that he desisted and put the cigarette in his pocket.
 
 “Now, Lucy,” he began querulously, “I knew you were going to say that.
 Why you should be so prejudiced and so vindictive against Nannie is
-beyond me. What earthly reason is there for putting <i>her</i> in the
+beyond me. What earthly reason is there for putting _her_ in the
 street--for she’s got no place to go if she leaves here!”
 
 “If you hadn’t flattered her and influenced her she would probably have
@@ -11864,7 +11900,7 @@ thousand times how you looked up to me, and now, after what you have
 said, I can never feel that you respect me.” He appeared almost
 ridiculously like a small boy.
 
-“You’ve hurt <i>me</i>, John, for a long time, and that’s why I said
+“You’ve hurt _me_, John, for a long time, and that’s why I said
 them,” Lucy replied more gently.
 
 John sat down in a chair and buried his face in his hands. Suddenly he
@@ -11876,7 +11912,7 @@ hand on his hair.
 
 “You’ve hurt--me--so,” he faltered abjectly, his voice choked.
 
-“Have I, John? Poor boy! Oh, John, <i>why</i> couldn’t you see without
+“Have I, John? Poor boy! Oh, John, _why_ couldn’t you see without
 all this?” she whispered wistfully.
 
 “Lucy----” John reached up and put his arm around her. “Lucy--you
@@ -11908,6 +11944,8 @@ into them and he kissed her forehead as of old.
 he went down the steps.
 
 She watched him as he halted in the gateway to light a cigarette.
+
+
 
 
 XXIX
@@ -12101,7 +12139,7 @@ see that you were tired before you spoke of it.”
 
 “Oh, I’m all right,” exclaimed John irritably, at the same time
 lighting a cigarette. “I know you never let on, John, but you can
-always be sure that <i>I</i> understand you, whether anyone else does
+always be sure that _I_ understand you, whether anyone else does
 or not.”
 
 John drummed on the table.
@@ -12157,7 +12195,7 @@ Nannie studied his perplexed face. Suddenly she seemed to decide
 something.
 
 “All right, John. I’ll do anything you say,” she promised, wiping her
-eyes. “I would do <i>anything</i> for you, John. You have been so good
+eyes. “I would do _anything_ for you, John. You have been so good
 to me.”
 
 John remained in an attitude of thought.
@@ -12263,7 +12301,7 @@ didn’t you? What did she say?”
 
 “Why, I had a talk with Nannie,” John parried somewhat uncertainly,
 “and she has agreed to--to--not to--interfere in the running of the
-house, and to--well, <i>you</i> know--cut out the kind of things that
+house, and to--well, _you_ know--cut out the kind of things that
 get on your nerves. I thought that if she would quit worrying you,” he
 went on rapidly, “that it would be more--more, well, more considerate
 and--better, not to actually put her out of the house, at least not
@@ -12290,6 +12328,8 @@ investigate. He could distinguish nothing but Nannie’s gentle snoring,
 and returned to bed.
 
 After midnight he fell into a sound sleep.
+
+
 
 
 XXX
@@ -12460,10 +12500,10 @@ Mrs. Merwent raised her eyebrows.
 
 'Well! I’m glad you’ve started to call me by my right name.“ Lucy did
 not speak and Nannie continued virtuously.@@ “It’s just as you say
-about luncheon, Lucy. You are the mistress. I’m sure <i>I</i> don’t
+about luncheon, Lucy. You are the mistress. I’m sure _I_ don’t
 want to do or say anything that will make unpleasantness. John has
 enough to worry about without us disagreeing. I wish we could get along
-without so many misunderstandings, Lucy. I’m sure I do <i>my</i> part.”
+without so many misunderstandings, Lucy. I’m sure I do _my_ part.”
 
 “I wish so too, Mamma.” Lucy’s tone was free from irritation or sarcasm.
 
@@ -12550,7 +12590,7 @@ Jim lit his pipe.
 
 “You’re a bad strategist, Jim,” she went on. “What is needed is attack
 and not defence. And Jim,” she laid her hand on his arm again, “we must
-save things <i>as they are</i>.”
+save things _as they are_.”
 
 “I understand.” He nodded. “You needn’t be afraid of me now.” He did
 not see the pity in her eyes at the “now.” “I don’t know what more I
@@ -12570,14 +12610,14 @@ want you to memorize something. It may do you good.”
 Miss Storms held up one finger as though speaking to a child, and
 repeated gravely,
 
-/*
+
   “Three blind mice,
   See how they run.
   They all run after the farmer’s wife.
   She cut off their tails with a carving knife.
   Did you ever see such fools in your life,
   As three blind mice?”
-*/
+
 
 Jim regarded her with a curious expression.
 
@@ -12649,11 +12689,11 @@ poor boy.”
 “Well, I’m glad if there isn’t.” He drew a long breath.
 
 “I’m going down town again in the morning,” Nannie continued a moment
-later. “I just must get some more of this <i>lingérie</i>. It’s
-perfectly lovely. I’m going to show you <i>part</i> of what I bought
+later. “I just must get some more of this _lingérie_. It’s
+perfectly lovely. I’m going to show you _part_ of what I bought
 after dinner, John.” She laughed coquettishly.
 
-“Anyone would think you were making a <i>trousseau</i>,” he commented
+“Anyone would think you were making a _trousseau_,” he commented
 jealously.
 
 Nannie became suddenly serious.
@@ -12748,7 +12788,7 @@ for a long time.”
 “Are you in a hurry now?” continued Jim. “Can’t I take you somewhere
 where we can sit down and have a soft drink?”
 
-“Why, thank you, Mr. Sprague,” she declined, “but I <i>am</i> rather in
+“Why, thank you, Mr. Sprague,” she declined, “but I _am_ rather in
 a hurry. I am anxious to get back to Lucy, you know. She depends so on
 me, and just now she’s not as well as usual.”
 
@@ -12842,7 +12882,7 @@ Nannie was visibly working up her anger.
 
 “This is pure spite, Mr. Sprague. You have never liked me, because
 I saw through your weakness for Lucy, but you can’t frighten me. I
-suppose <i>she’s</i> put you up to this! I can tell my story, too, and
+suppose _she’s_ put you up to this! I can tell my story, too, and
 we’ll see who comes out of it best.”
 
 “Now, you’re bluffing, Mrs. Merwent, and it won’t go. I am quite ready
@@ -12857,7 +12897,7 @@ that’s all I wanted to say, Mrs. Merwent.” And Jim rose.
 
 “Not yet,” Jim admitted grimly.
 
-“It will be a fine thing for a <i>man</i> to do, going around talking
+“It will be a fine thing for a _man_ to do, going around talking
 about a woman behind her back!”
 
 “We won’t discuss that, Mrs. Merwent.”
@@ -12883,6 +12923,8 @@ In the station, before taking the Rosedene train, Mrs. Merwent lingered
 for twenty minutes or more in the neighborhood of the telegraph office.
 Finally, with sudden decision she approached the desk and dispatched a
 message.
+
+
 
 
 XXXI
@@ -12916,7 +12958,7 @@ you get the underwear you wanted?”
 store, so I came right back.” She stared at Lucy’s hair, which was
 arranged with more care than usual, and at the white organdie dress
 which was only donned occasionally. “You must be expecting Mr. Sprague
-out tonight, Lucy,” she gibed, viciously. “Well, don’t accuse <i>me</i>
+out tonight, Lucy,” she gibed, viciously. “Well, don’t accuse _me_
 of being the only one weak enough to care about my looks.”
 
 “I don’t, Mamma.” There was a barely perceptible tremor in Lucy’s
@@ -12951,7 +12993,7 @@ interest.
 matter of fact, and at the same time submitting to her mother’s kiss.
 Her breast heaved and two vivid spots of color tinged her cheeks.
 
-“Oh, Lucy, you don’t <i>want</i> me to go! Say you don’t want me to
+“Oh, Lucy, you don’t _want_ me to go! Say you don’t want me to
 go!” Nannie implored.
 
 “Why, no-o, Mamma,” Lucy answered reluctantly, moistening her lips. “I
@@ -12984,7 +13026,7 @@ across Nannie’s bent head.
 
 Mrs. Merwent lifted her head.
 
-“<i>You’re</i> not glad I’m going away! Oh, Jimmie, you don’t want
+“_You’re_ not glad I’m going away! Oh, Jimmie, you don’t want
 Nannie to go, do you?”
 
 He jumped up and ran to her.
@@ -13096,7 +13138,7 @@ movements and tearing the message half across in the process.
 “It’s--it’s from--it’s from Professor Walsh,” Mrs. Merwent informed
 them unsteadily, reading the telegram.
 
-“What’s the matter with <i>him</i>?” sneered John.
+“What’s the matter with _him_?” sneered John.
 
 “Why, he--you know he--his interest in me----” Nannie began with a
 changed air of mingled relief and importance.
@@ -13172,7 +13214,7 @@ doesn’t alter what I say.” He glared at Lucy. “I saw how you were
 looking at Nannie, as if you could hardly wait for the moment to come
 when you could get her out of the house!”
 
-“Now, John, surely when <i>I’m</i> willing to forgive Lucy----”
+“Now, John, surely when _I’m_ willing to forgive Lucy----”
 Nannie’s air was soft and uncertain.
 
 “Come, Dimmie!” Lucy almost jerked the whimpering child from his chair,
@@ -13251,7 +13293,7 @@ We’ll fight it out and see who’s running things in this house. Never
 you fear, Nannie, I won’t have you shoved out in the street. We’ll
 stand together and Lucy can rant and rave all she pleases. By God, I
 won’t have it! I’ll fight it to the last ditch! You’re her own mother,
-and if she doesn’t realize that she owes anything to you, <i>I</i> do,
+and if she doesn’t realize that she owes anything to you, _I_ do,
 and I’ll make her--make her stand up to her obligations whether she
 wants to or not. She’ll either accept my standards in this household
 or--if she’s going to have me she’s got to--I’m the master here whether
@@ -13351,7 +13393,7 @@ see the sculptures!” He laughed bitterly.
 “Don’t, John,” begged Nannie. “You frighten me.” Again the two became
 silent.
 
-“If only <i>you</i> weren’t the one to suffer!” Nannie exclaimed at
+“If only _you_ weren’t the one to suffer!” Nannie exclaimed at
 last. “There is so much in our lives that is the same!”
 
 “Yes, Nannie.”
@@ -13391,7 +13433,7 @@ bravely. “I’ll be too tired tomorrow night.”
 
 “Yes, sing to me.”
 
-Nannie sang <i>Ouvrez tes yeux</i>.
+Nannie sang _Ouvrez tes yeux_.
 
 When Dr. Hamilton reached home he found Lucy and Dimmie still there.
 Dimmie was sound asleep. At Lucy’s request the Doctor picked the
@@ -13404,6 +13446,8 @@ her and she did not make her presence known.
 
 It was late when they followed her. John found her door locked. All was
 dark and quiet. He slept in Jim’s room.
+
+
 
 
 XXXII
@@ -13446,7 +13490,7 @@ colloquy. When he had gone she went upstairs to begin her packing.
 
 Lucy came into the bedroom.
 
-“Will you help me fold these things? I can’t do <i>everything</i>
+“Will you help me fold these things? I can’t do _everything_
 alone.”
 
 “Of course,” Lucy responded impassively, beginning to arrange the
@@ -13488,7 +13532,7 @@ from the very beginning, you’re greatly mistaken. But let me tell you
 one thing, Lucy. You haven’t got as much to feel jubilant over as you
 think you have.”
 
-“I’m sure I <i>don’t</i> know what you mean,” reiterated Lucy.
+“I’m sure I _don’t_ know what you mean,” reiterated Lucy.
 
 “Well, you’ll see what I mean.”
 
@@ -13514,7 +13558,7 @@ reprovingly.
 vehemence, “but if you intend talking like this I’m going out of the
 house.”
 
-“Oh, it’s not necessary, Lucy. It’s not necessary. <i>I’m</i> going out
+“Oh, it’s not necessary, Lucy. It’s not necessary. _I’m_ going out
 of the house tomorrow, and if you want me to I can go today. I’ll go
 down town and stay at a hotel as soon as my baggage is ready.”
 
@@ -13542,7 +13586,7 @@ a little affection sometimes. You’re my only child, and I’ve tried so
 hard.” Nannie ceased her occupation in order to wipe her eyes. “But you
 are so cold and hostile! Every trifling thing is an excuse for getting
 angry and hurting me.” Sitting by the trunk, Mrs. Merwent began to
-weep. “Oh, Lucy, you are so <i>ungrateful</i>. I overlooked all the
+weep. “Oh, Lucy, you are so _ungrateful_. I overlooked all the
 past and came here, and--and you’ve treated me so! I’m sure it’s not my
 fault. If I were at all to blame--if--why, the fact that your husband
 and even your own child feel kindly toward me shows I’m not. It’s only
@@ -13554,7 +13598,7 @@ Lucy went on laying garments in the trunk.
 
 “You’ve got Professor Walsh,” she said.
 
-“Lucy!” Nannie’s tone was eloquent of reproach. “How <i>cruel</i> of
+“Lucy!” Nannie’s tone was eloquent of reproach. “How _cruel_ of
 you! How cruel----!” The sobs were redoubled. “I don’t know--that
 I--would ever have--thought of marrying--again, if you had
 been--different,” she asserted brokenly.
@@ -13568,7 +13612,7 @@ eyes. “You don’t know what a daughter could mean to a mother’s heart.”
 
 “Well, I hope if you ever have one, she won’t misunderstand you as you
 have me. I know how much the sympathy of my own dear mother meant to
-<i>me</i>.”
+_me_.”
 
 Lucy began to lay garments in the trunk again.
 
@@ -13642,7 +13686,7 @@ Sprague has changed. He’s not the man he used to be at all.”
 She--she’s not--her morbidness is really bad for Jimmie, too. But then
 you bear everything so nobly. You are--oh, I don’t know what to call
 it! If all men had your patience and forbearance this world would be a
-very different place for some of us. <i>I</i> appreciate it for her if
+very different place for some of us. _I_ appreciate it for her if
 she don’t for herself.” There was a catch in Nannie’s voice.
 
 “You’ve had nothing from me you don’t deserve, Nannie.” John did not
@@ -13659,7 +13703,7 @@ simultaneously Katy thrust her head through the dining room doorway.
 
 “Dinnah’s ready, Miss Nannie. Kin I put it on de table?” she inquired.
 
-“Don’t ask <i>me</i>, Katy,” said Nannie peevishly. “Mrs. Winter is
+“Don’t ask _me_, Katy,” said Nannie peevishly. “Mrs. Winter is
 your mistress. You’ll have to ask her.”
 
 “Yes, Katy, you may serve dinner,” Lucy put in quietly.
@@ -13687,7 +13731,7 @@ Jim Sprague is the one who wished this proposition on us.”
 
 “We were as much in for it as he was,” Lucy stated coldly.
 
-“May be <i>you</i> were,” retorted John sharply.
+“May be _you_ were,” retorted John sharply.
 
 “And I certainly think, Lucy, that you have the most unfriendly and
 unattractive set of neighbors. That Mrs. Hamilton that you think so
@@ -13699,7 +13743,7 @@ beautiful mother.” Lucy defended her friend warmly.
 “A contrast to me,” Nannie suggested bitterly.
 
 “I wasn’t comparing her to anybody,” retorted Lucy. “I only meant
-<i>I</i> wouldn’t be ashamed to be seen with her any place.”
+_I_ wouldn’t be ashamed to be seen with her any place.”
 
 “Well, anyway it was meant as a rebuke for what I said. You can’t get
 out of that, Lucy.”
@@ -13721,7 +13765,7 @@ conversation is about,” Nannie persisted accusingly.
 Lucy’s eyes filled with tears. She rose from the table and went into
 the hall,
 
-“<i>Now</i> what’s the matter?” Nannie called after her.
+“_Now_ what’s the matter?” Nannie called after her.
 
 Without replying, Lucy mounted the stairs.
 
@@ -13731,7 +13775,7 @@ you’re leaving.” John drummed on the table with his knuckles,
 
 Nannie took his hand.
 
-“<i>Dear</i> John,” she whispered.
+“_Dear_ John,” she whispered.
 
 “Don’t Mamma want Nannie to go?” asked Dimmie, who was staring
 curiously at the interchange of glances in which his elders were
@@ -13740,13 +13784,13 @@ indulging.
 “Oh, hell, Dimmie! You go to bed!” John exclaimed nervously, rising and
 moving to the window where he remained with his back turned.
 
-“<i>You</i> are sorry, aren’t you, Jimmie?” Nannie’s voice was full of
+“_You_ are sorry, aren’t you, Jimmie?” Nannie’s voice was full of
 emotion.
 
 “Uh huh, but you’re goin’ to take me with you,” Dimmie replied, with
 his mouth full. He swallowed hastily.
 
-“Yes, of course,” agreed Mrs. Merwent. Then, to John, “He’s <i>so</i>
+“Yes, of course,” agreed Mrs. Merwent. Then, to John, “He’s _so_
 much like you, John. Oh, John, won’t it be awful if Lucy----” She
 stopped, looking unspeakable things. “A morbid atmosphere reacts so on
 a child,” she explained.
@@ -13754,7 +13798,7 @@ a child,” she explained.
 “Uncle Jim says I’m like Mamma,” observed Dimmie, taking another bite
 of bread and butter.
 
-“Of course <i>he</i> would say so.” Nannie nodded and raised her brows
+“Of course _he_ would say so.” Nannie nodded and raised her brows
 significantly.
 
 John glowered out the window a moment, then came back to his place at
@@ -13788,7 +13832,7 @@ He smoked in moody silence.
 “Yes?” He turned his head away and tried vainly to control his shaking
 voice.
 
-“You <i>will</i> think of me, John?”
+“You _will_ think of me, John?”
 
 “My God, Nannie, don’t talk rot!” He tossed his cigarette into the
 empty fireplace.
@@ -13852,13 +13896,13 @@ but----” She paused.
 
 Her face flushed under the rouge.
 
-“<i>Dear</i> boy!” she murmured gratefully. “You see I didn’t have time
+“_Dear_ boy!” she murmured gratefully. “You see I didn’t have time
 to write to Professor Walsh, and there are all the expenses of the
 journey,” she added apologetically.
 
 John took out his pocket book with trembling fingers.
 
-“I don’t see where <i>he</i> comes into it,” he grumbled unsteadily,
+“I don’t see where _he_ comes into it,” he grumbled unsteadily,
 taking out some money. “Will this be enough?” Rather shamefacedly he
 held up two bills.
 
@@ -13879,6 +13923,8 @@ quickly into the hall, went up the steps.
 
 John heard her door close. He ascended the stairs after her very
 slowly.
+
+
 
 
 XXXIII
@@ -13907,7 +13953,7 @@ at the last. It makes you look like a fright.”
 The two descended the stairs.
 
 “I can’t eat in such a rush,” Mrs. Merwent complained at the table. “I
-<i>do</i> hope there’ll be a good diner on the train.” She turned to
+_do_ hope there’ll be a good diner on the train.” She turned to
 John, “When does the suburban leave, John?”
 
 “Oh, I’ve ordered a machine for you, Nannie. It’s muddy from the rain
@@ -13966,7 +14012,7 @@ extending her hand as John raised his hat. “Where’s Mr. Sprague? Didn’t
 he come?”
 
 “Oh, no,” interrupted Nannie. “Mr. Sprague doesn’t put himself out for
-<i>everybody</i> in the family.”
+_everybody_ in the family.”
 
 John handed over the tickets, the flowers, and the parcels.
 
@@ -14218,6 +14264,8 @@ Lucy tied his little cravat and, fixing his hat on properly, allowed
 him to depart without further words.
 
 
+
+
 XXXIV
 
 
@@ -14253,7 +14301,7 @@ need a girl.”
 child away.
 
 John entered the living room, and, seating himself at the piano,
-attempted to play the accompaniment to <i>Ouvrez tes yeux</i>.
+attempted to play the accompaniment to _Ouvrez tes yeux_.
 
 When Lucy came downstairs again after putting Dimmie to bed, John rose.
 
@@ -14296,7 +14344,7 @@ Mrs. Hamilton appeared in the doorway.
 “Come on into the study, Mr. Winter, and smoke a cigar. We’ll leave the
 ladies to talk gossip,” urged the Doctor, rising.
 
-“You mean leave the ladies in order <i>to</i> talk gossip.” Mrs.
+“You mean leave the ladies in order _to_ talk gossip.” Mrs.
 Hamilton laughed as she straightened her husband’s cravat.
 
 It was after ten o’clock when John and Lucy reached home.
@@ -14402,7 +14450,7 @@ This is certainly what I call a thin dinner.”
 “It isn’t Katy, John. We have just the same cooking that we used to
 have before Mother came. I thought better to cut down our expenses.”
 Lucy colored as she spoke, but looked steadfastly at him. “Well,
-<i>I’m</i> not ready to starve yet to save a penny, even if you are!”
+_I’m_ not ready to starve yet to save a penny, even if you are!”
 
 After the meal they considered the list of invitations for the dinner.
 
@@ -14465,6 +14513,8 @@ give me a chance to get away in case my welcome is worn out.”
 A half an hour later he entered the office.
 
 “I think I’ll be able to come after all,” he said to John.
+
+
 
 
 XXXV
@@ -14663,8 +14713,8 @@ speaking.
 
 “Well?” John glanced up at her with a resentful air.
 
-“John, <i>don’t</i> you think I ought to send Katy away? We
-<i>oughtn’t</i> to spend so much money.” There was a tremor in Lucy’s
+“John, _don’t_ you think I ought to send Katy away? We
+_oughtn’t_ to spend so much money.” There was a tremor in Lucy’s
 voice.
 
 “See here, Lucy, if I’m going to have to stand for curtain lectures
@@ -14746,7 +14796,7 @@ Lucy did not speak. She sat down near John, her face averted.
 offered me his share of the business--at a low price--in fact almost
 nothing--and on liberal terms: time payments. He has an offer from
 Layard’s and wants to get out. It’s far and away a better position than
-I had with them. That shows what kind of a friend <i>he</i> was.”
+I had with them. That shows what kind of a friend _he_ was.”
 
 Lucy stared at the papers on the table before her.
 
@@ -14771,6 +14821,8 @@ Lucy rose again and, walking rather unsteadily to Jim’s desk, laid her
 hands softly upon it. She rested so for a minute. Then she went slowly
 to the window opposite the street and gazed across the roofs to the
 tall building in which Layard’s offices were situated.
+
+
 
 
 THE END
