@@ -320,7 +320,7 @@
 );
 
 
-$::bookmarks[0] = '86.30';
+$::bookmarks[0] = '64.9';
 
 $::pngspath = 'C:\Users\Conape03\Documents\blind-mice-pp\pngs\\';
 
