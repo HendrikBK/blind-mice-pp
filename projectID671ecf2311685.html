@@ -244,7 +244,11 @@
         }
 
         /* PPer CSS */
-
+        /* General CSS */
+        .smaller {
+            font-size: 0.75em;
+        }
+        /* Titlepage */
         #titlepage > * {
             text-align: center;
         }
@@ -261,6 +265,14 @@
         #titlepage img {
             max-height: 2em;
         }
+        /* Copyright */
+        #copyright > * {
+            text-align: center;
+        }
+
+        #copyright p + p {
+            margin-top: 4em;
+        }
 
         </style>
     </head>
@@ -274,13 +286,11 @@
             <p>NEW <img src="images/i_decor.jpg"> YORK<br>
             GEORGE H. DORAN COMPANY</p>
         </section>
-        <div class="copyright">
-            <p>
-            COPYRIGHT, 1921,[**2 commas that look like full points, original photo is commas]<br>
-            BY GEORGE H. DORAN COMPANY<br>
-            <br>
-            PRINTED IN THE UNITED STATES OF AMERICA<br>
-            </p>
+        <div id="copyright">
+            <p class="smaller">COPYRIGHT, 1921,<!--[**2 commas that look like full points, original photo is commas]--><br>
+            BY GEORGE H. DORAN COMPANY</p>
+            
+            <p class="smaller">PRINTED IN THE UNITED STATES OF AMERICA</p>
         </div>
         <div class="dedication">
             <p>
