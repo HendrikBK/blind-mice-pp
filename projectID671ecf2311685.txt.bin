@@ -320,7 +320,10 @@
 );
 
 
-$::bookmarks[0] = '16757.51';
+$::bookmarks[0] = '16761.65';
+
+$::pngspath = 'C:\Users\Win 10\Documents\blind-mice-pp\pngs\\';
+
 $::spellindexbkmrk = '';
 
 $::projectid = 'projectID671ecf2311685';
