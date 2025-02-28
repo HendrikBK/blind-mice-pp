@@ -11,15 +11,14 @@ BLIND MICE
 BY
 C. KAY SCOTT
 
-[Illustration][**mid-line below]
 
-NEW      YORK
+NEW [Illustration] YORK
 GEORGE H. DORAN COMPANY
 */
 
 
 /*
-COPYRIGHT, 1921,[**2 commas that look like full points, original photo is commas]
+COPYRIGHT, 1921,
 BY GEORGE H. DORAN COMPANY
 
 PRINTED IN THE UNITED STATES OF AMERICA
@@ -71,7 +70,7 @@ was evident.
 
 Sprague was tall and slender, with large hands and feet.
 An even color glowed through his darkly tinted skin. He
-had deep set brown eyes. The other features were large:[**;?] the
+had deep set brown eyes. The other features were large; the
 mouth straight. A brown moustache, closely cut as was his
 dark hair, shaded his heavy upper lip. He wore fastidiously
 selected clothing that displayed an exaggeratedly quiet taste;
@@ -388,7 +387,7 @@ the table. “I can attend to coffee and you too.”
 your mother, Lucy.” John returned to the unwelcome subject.
 “We’ve no desire to keep anything from Jim.”
 
-“Of coure[**P2 course] not,” Lucy agreed quickly.
+“Of course not,” Lucy agreed quickly.
 
 “This is our last evening alone, Jim.” John ran his fingers
 through his hair. “It’s all right for Lucy’s mother to forgive
@@ -611,7 +610,7 @@ Mrs. Merwent gave a tinkly nervous laugh.
 
 “Aren’t you going to kiss me, Lucy?” she asked. Her
 lightness of manner was uncertain. Her eyes strayed over
-Lucy’s shoulder to Jim who leaned aginst[**P2 against] the mantel shelf.
+Lucy’s shoulder to Jim who leaned against the mantel shelf.
 
 Lucy kissed her mother silently. Their lips barely brushed.
 In order to conceal her agitation Mrs. Merwent gave Lucy’s
@@ -935,7 +934,7 @@ Lucy continued to smile.
 changed you. I must say, though, I was agreeably surprised
 in your husband. John is really delightful, so kind and considerate.
 I overlooked everything and we became friends in
-no time. Now[** How?] much does he make?”
+no time. How much does he make?”
 
 Lucy opened her eyes wide.
 
@@ -3362,7 +3361,7 @@ was an unprecedented length of time for him to stay away.
 “How is Mr. Sprague, your partner?” Nannie queried one
 evening at dinner.
 
-“Oh, he’s all right,” responded John, and then added, “Why[**, or speck?]
+“Oh, he’s all right,” responded John, and then added, “Why
 he’s not been out since the day you came! I’ll ask him out to
 dinner tomorrow night. He’s no extra trouble.”
 
@@ -3445,7 +3444,7 @@ Dimmie grew impatient.
 “It’ll get dark and you can’t see the kittens,” he complained.
 
 After Jim and Dimmie had left the dining room, Nannie,
-who was stading[** standing] by the table, began to look about as if in
+who was standing by the table, began to look about as if in
 search of something.
 
 “Why, Lucy must have forgotten to order it,” she observed,
@@ -3698,7 +3697,7 @@ Merwent?”
 She preserved her air of dignity, but her uneasiness was
 obvious.
 
-“I don’t understand you,”[**delete quote?] Mr. Sprague. I certainly will not
+“I don’t understand you,standing Mr. Sprague. I certainly will not
 be stopped from doing my duty in protecting Lucy no matter
 if you do misunderstand me.”@
 
@@ -4113,7 +4112,7 @@ doesn’t seem to be here. Jimmie must have moved it.”
 afternoon,” suggested Lucy.
 
 Mrs. Merwent disappeared into the living room, followed
-by John, and a moment later the strains of Massenet’s <i>Ouvrez[**Ouvre]
+by John, and a moment later the strains of Massenet’s <i>Ouvrez
 tes Yeux</i> floated in to the dining room.
 
 “Sit down, Jim,” Lucy bade Sprague, who was standing
@@ -4140,10 +4139,10 @@ people see things clearly there’s always a way, so let’s not get
 panicky.”
 
 “The trouble is we don’t all see through things.” Jim
-shugged [**P1 typo for shrugged?] his shoulders uncomfortably.
+shrugged his shoulders uncomfortably.
 
 The music ceased abruptly but almost immediately began
-again and Nannie sang, <i>Vous Dansez[**,] Marquise</i>.
+again and Nannie sang, <i>Vous Dansez, Marquise</i>.
 
 “Give John a little time, Jim. He’ll see more than the rest
 of us before long,” Lucy went on, as though defending her
@@ -5591,7 +5590,7 @@ finished apologetically.
 while I’m here!” John answered, dropping her arm.
 
 “But remember, John, I didn’t know until I got here----”
-She stopped speaking, then added, “it[**It] is hard not to treasure
+She stopped speaking, then added, “it is hard not to treasure
 it up against Lucy when I think how long her siding with her
 father against me kept us from knowing each other, John.”
 
@@ -6006,7 +6005,7 @@ in the evening.
 Lucy and he always manage to make us seem foolish!”
 
 “Now, Nannie, you’re imagining,” said John soothingly.
-[**“Lucy didn’t say anything.[**”]
+“Lucy didn’t say anything.
 
 “That’s just it!” retorted Mrs. Merwent. “She never does
 but she always sees to it that she and Mr. Sprague----”
@@ -6526,7 +6525,7 @@ dinner will get cold,” she added.
 that horrid shade for?” Nannie asked a moment later, when
 the family was seated and she was serving the plates.
 
-“Why I don’t thing[**P1:think] it’s horrid,” objected Lucy. “We all
+“Why I don’t think it’s horrid,” objected Lucy. “We all
 agreed it was pretty. Jim selected it and----”
 
 “Yes!” sneered Mrs. Merwent, “Mr. Sprague has to be
@@ -6720,7 +6719,7 @@ instant.
 if Mrs. Hamilton is such a friend as you say she might take
 care of him one night!” Again Lucy was silent a moment.
 
-“All right.[**,]” she acquiesced finally.
+“All right,” she acquiesced finally.
 
 “You don’t seem very jubilant about it,” commented Nannie,
 who was now all smiles. “<i>I</i> appreciate it,” she added.
@@ -7565,7 +7564,7 @@ without considering ours.”
 “Lucy is always ready to defend Mr. Sprague,” remarked
 Nannie, smiling at John once more. “She’s loyal even if the
 rest of us may not be.”
-John regarded Lucy as[**P1:an?] instant, then lowered his eyes.
+John regarded Lucy an instant, then lowered his eyes.
 
 “No, Mamma! That isn’t it,” said Lucy, flushing, “but I
 do so like to be just to everybody.”
@@ -9206,7 +9205,7 @@ Lucy went on sewing in silence.
 with you? I feel like I wanted to shake you. Why don’t you
 talk?”
 
-“I don’t feel like talking.[**,]” said Lucy quietly.
+“I don’t feel like talking.,” said Lucy quietly.
 
 “Now, Lucy, just because we may have had an occasional
 little tiff or two, that’s no reason why you should be resentful
@@ -9945,7 +9944,7 @@ midnight.
 Nannie did not get downstairs even for the usual late
 Sunday breakfast, and Katy took coffee, toast, eggs, and fruit
 to the bedroom. When the invalid finally appeared she was
-wearing an elaborate negligée[**négligée]. She clung to the walls, chairs,
+wearing an elaborate negligée. She clung to the walls, chairs,
 and tables, as she walked, and otherwise exhibited symptoms
 of extreme prostration.
 
@@ -10082,7 +10081,7 @@ told Lucy. “It must be something very private as she insisted
 on your coming to the 'phone yourself. I told her you
 were busy.”
 
-Lucy turned from the table where she[**P1:“was” missing?] mixing cake batter.
+Lucy turned from the table where she was mixing cake batter.
 
 “Whom do you mean? Miss Storms?” she asked.
 
@@ -10316,7 +10315,7 @@ table.
 As Lucy had not taken any dinner to her the previous
 evening, Mrs. Merwent appeared at the breakfast table at an
 unwonted hour, shortly after John’s departure for the office.
-She was almost without rouge and wore the negligée[** négligée] of the
+She was almost without rouge and wore the negligée of the
 previous Sunday, a creation of grey and rose.
 
 “I’m not hungry,” she explained as she seated herself and
@@ -10737,7 +10736,7 @@ knocked at the locked door. Lucy took no notice.
 he called from the hall.
 
 “It’s in the desk drawer,” Lucy replied. “Here is the
-key.[**,]” and she tossed it through the open transom above the
+key.,” and she tossed it through the open transom above the
 door.
 
 In a few minutes Mrs. Merwent tapped at the door.
@@ -11255,7 +11254,7 @@ was too hasty. Oh, my poor child!” And she continued to
 pat the pillows, rub Lucy’s hands and forehead, and apply
 the smelling salts with nervous and jerky movements.
 
-Scarcely five minutes had elapsed when John reëntered[**P1:reentered?] followed
+Scarcely five minutes had elapsed when John reentered followed
 by Dr. Hamilton, who dropped his hat on the table,
 swung his medicine case beside it, pushed Mrs. Merwent
 gently out of his way, and seated himself by the sofa without
@@ -11393,7 +11392,7 @@ window shades, and set to rights Lucy’s bureau and wash-stand,
 but, finding no further excuses for lingering, was finally
 obliged to leave the invalid in peace.
 
-When Nannie reëntered[**P1:reentered?] the room early in the afternoon
+When Nannie reentered the room early in the afternoon
 Lucy started to rise.
 
 “Don’t get up. I only wanted to ask you a question,” began
@@ -11611,7 +11610,7 @@ But John put on the coat.
 hoped Lucy would be in today--though she said yesterday that
 she didn’t think it would be possible.” Miss Storms paused.
 “As there seems to be no way for them to communicate with
-her----” she paused again with signficant[**significant] emphasis, raising
+her----” she paused again with significant emphasis, raising
 her eyebrows but continuing to smile in the same manner, “I
 have brought this parcel from them. It is for Dimmie. His
 grandfather promised him a watch.”
@@ -11772,7 +11771,7 @@ Mrs. Merwent turned to her daughter.
 
 Jim interrupted before Lucy could reply.
 
-“Business [** is?] very engrossing, Mrs. Merwent. We have new
+“Business is very engrossing, Mrs. Merwent. We have new
 competition. A lady architect has rented offices in the same
 building with us.”
 
@@ -12866,7 +12865,7 @@ this kind of thing any longer.”
 “Exactly. I have decided just that.”
 He stared at her in astonishment.
 
-“What do you mean, Lucy?” He lowered his vioce[** voice].
+“What do you mean, Lucy?” He lowered his voice.
 
 “I mean that I am going to leave.”
 
@@ -13364,7 +13363,7 @@ Walsh.”
 “Well?”
 
 “Oh, John, if it were anyone but you I would rather die
-than ask money of them--but the check didn’t come--and----[**retain space?]Oh,
+than ask money of them--but the check didn’t come--and----Oh,
 John, what shall I do?” She began to cry.
 
 “How much do you want, Nannie?”
@@ -13437,7 +13436,7 @@ bed braiding her hair. She smiled pityingly at his troubled
 face.
 
 “I heard you go out,” she said. “I expect you had a disagreeable
-time.[**,] didn’t you? What did she say?”
+time, didn’t you? What did she say?”
 
 “Why, I had a talk with Nannie,” John parried somewhat
 uncertainly, “and she has agreed to--to--not to--interfere in
@@ -13841,7 +13840,7 @@ was worried and uncertain.
 He had left the office a little earlier than usual and reached
 Rosedene on a train which arrived there before the customary
 hour. He found Lucy, Dimmie, and Nannie sitting in the
-dining room. Lucy was reading aloud to Dimmie[**Dimmie|F2: corrected to match scan] from a
+dining room. Lucy was reading aloud to Dimmie from a
 book of fairy tales and Mrs. Merwent was embroidering some
 underwear she had purchased on the previous day in consultation
 with Miss Powell. As John entered both women
@@ -14315,7 +14314,7 @@ John glanced from Nannie to Lucy and frowned.
 “When do you want to go and see the sculptures I spoke
 of?” he repeated with less enthusiasm.
 
-“Why--I don’t know. Let’s see----[**retain space?]When had you
+“Why--I don’t know. Let’s see---- When had you
 rather go, Lucy?”
 
 “Any day that is convenient for John.”
@@ -14534,7 +14533,7 @@ up--so much--that which means so much to me?”
 
 “Then why not cut it out? You must cut it out! It’s
 absurd! It’s ridiculous! I won’t believe it. Why only this
-morning----[**retain space?]I don’t see how you can torture me like this,
+morning---- I don’t see how you can torture me like this,
 Nannie. You know you’ve come here to stay with us always.
 Why you’re a part of my home--part of my life, Nannie!
 Do you think I’m going to submit to all this tamely, to please
@@ -14697,7 +14696,7 @@ offered, smiling bravely. “I’ll be too tired tomorrow night.”
 
 “Yes, sing to me.”
 
-Nannie sang <i>Ouvrez[**Ouvre] tes yeux</i>.
+Nannie sang <i>Ouvrez tes yeux</i>.
 
 When Dr. Hamilton reached home he found Lucy and
 Dimmie still there. Dimmie was sound asleep. At Lucy’s
@@ -14723,7 +14722,7 @@ his remarks only to Nannie.
 
 “No, thank you, John,” she replied. She gazed at him
 sympathetically. As a concession to unwontedly early rising
-she wore a beribboned negligée[**négligée] and a boudoir cap that was
+she wore a beribboned negligée and a boudoir cap that was
 very becoming. “It’s so good and thoughtful of you to offer,
 but I can pack my things very well alone. But you mustn’t
 forget to send the express man out early this evening, for
@@ -15220,7 +15219,7 @@ them.
 
 “There would be more than that if I had it to give!” he insisted.
 
-“When I get to Russellville----[**retain space?]Oh, John!” Nannie crumpled
+“When I get to Russellville----Oh, John!” Nannie crumpled
 the money in one hand. The other she placed on his
 shoulder.
 
@@ -15408,7 +15407,7 @@ again.
 “Now, John.” Nannie drew him slightly apart from the
 others and raised her veil. “I’m going to kiss you after all,”
 she said, putting her arms around his neck. “Don’t forget
-me, dear John,”’ she murmured, sobbing a little. [**“]And try to
+me, dear John,”’ she murmured, sobbing a little.  “And try to
 get along with Lucy, no matter how hard it is.”
 
 John thrust a slip of paper into her hand.
@@ -15606,7 +15605,7 @@ When John returned on Sunday he again found Lucy seated
 in the dining room by an open window, a book in her lap.
 
 “Hello!” he greeted, pausing in the doorway and setting
-down his suitcase[**two words previously].
+down his suit case
 
 Lucy looked up.
 
@@ -15638,7 +15637,7 @@ spoke.
 Lucy led the child away.
 
 John entered the living room, and, seating himself at the
-piano, attempted to play the accompaniment to <i>Ouvrez[**Ouvre] tes
+piano, attempted to play the accompaniment to <i>Ouvrez tes
 yeux</i>.
 
 When Lucy came downstairs again after putting Dimmie to
@@ -15649,7 +15648,7 @@ suggested.
 
 “Why----” she began, and hesitated, adding hastily. “All
 right, John. Let me get a scarf from my room and speak to
-Katy.[**”]
+Katy.”
 
 In her room she scrutinized her face in the mirror. Tears
 rolled down her pale cheeks. She wiped the tears viciously
@@ -15816,7 +15815,7 @@ dinner.
 of a man for her. Oh, yes! There’s Mathews, Layard’s head
 bookkeeper. He’s a bachelor. Then there’s the Hamiltons.
 I suppose they’ll have to come. Miss Storms we don’t want--we
-don’t know many people, Lucy. Let’s see----[**retain space?]There’s Miss
+don’t know many people, Lucy. Let’s see---- There’s Miss
 Lyle, and Mrs. Morris, too. They came to the tea you gave
 for Nannie, didn’t they? We must invite Mrs. Morris’s husband,
 too. I know him slightly. And we can find a man for
