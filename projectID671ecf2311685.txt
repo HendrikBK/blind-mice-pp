@@ -328,7 +328,7 @@ long, instead of an architect’s studio.”
 
 “Well I wouldn’t, and I don’t think my boy would want advantages
 purchased at the cost of his father’s soul. Would you, son?” John
-rumpled Dimmie’s hair,
+rumpled Dimmie’s hair.
 
 “I want a balloon,” remarked Dimmie.
 
@@ -3893,7 +3893,7 @@ my room.”
 “Well, if you must, you must,” John agreed, “but why didn’t you say so
 before?”
 
-“Good-bye, Mrs. Merwent,“ Jim said, ignoring John’s question. “Good
+“Good-bye, Mrs. Merwent,” Jim said, ignoring John’s question. “Good
 night, Lucy.” They shook hands.
 
 “I’ll go to the station with you,” John offered.
@@ -4795,7 +4795,7 @@ to put up with to keep things going are pitiful,” he declared.
 
 John hesitated, and, glancing away as he spoke, named the sum Miss
 Brennan had suggested, which almost doubled the amount she was
-receiving,
+receiving.
 
 There was a brief pause.
 
@@ -5684,7 +5684,12 @@ stopped.
 pettishly.
 
 Lucy lay down on the bed, her face turned away from him. No more words
-passed between them and soon John, at least, was sleeping. XVI
+passed between them and soon John, at least, was sleeping.
+
+
+
+
+XVI
 
 
 The morning following Jim’s visit it was raining. Dismal little rivers
@@ -7837,7 +7842,7 @@ and impulse the child has!”
 her chair. “I tell you I won’t have my child tortured by you or anyone
 else. If it’s to be that or nothing we had better decide to part right
 now. So far as my own life goes, I say nothing, but my child----” She
-halted for breath, trembling with emotion,
+halted for breath, trembling with emotion.
 
 “Lucy!” Nannie almost shrieked, rising also.
 
@@ -7884,7 +7889,7 @@ Grace.
 knocking. “You look all pale and wore out.”
 
 Nannie observed her rouged cheeks in the mirror, peering over the
-girl’s head surreptitiously,
+girl’s head surreptitiously.
 
 “Am I pale, Grace?” she inquired nervously.
 
@@ -8494,7 +8499,7 @@ Lucy went on sewing in silence.
 “Lucy!” exclaimed Nannie nervously. “What’s the matter with you? I feel
 like I wanted to shake you. Why don’t you talk?”
 
-“I don’t feel like talking.,” said Lucy quietly.
+“I don’t feel like talking,” said Lucy quietly.
 
 “Now, Lucy, just because we may have had an occasional little tiff or
 two, that’s no reason why you should be resentful and act like this.
@@ -9888,7 +9893,7 @@ In about an hour John knocked at the locked door. Lucy took no notice.
 “Where is the money I gave you the first of the month?” he called from
 the hall.
 
-“It’s in the desk drawer,” Lucy replied. “Here is the key.,” and she
+“It’s in the desk drawer,” Lucy replied. “Here is the key,” and she
 tossed it through the open transom above the door.
 
 In a few minutes Mrs. Merwent tapped at the door.
@@ -11522,7 +11527,7 @@ on his desk. The murmur of the street sounded as remote as the echo of
 the ocean in a shell.
 
 The door opened and Lucy came in. Jim glanced up, startled, but did not
-speak,
+speak.
 
 “I want to talk to you, Jim,” Lucy said without preamble. Her face was
 set.
@@ -13846,7 +13851,7 @@ Without replying, Lucy mounted the stairs.
 
 “Let her go, Nannie, if she wants to lose her temper and pout about
 nothing again. I might as well get used to this sort of thing now that
-you’re leaving.” John drummed on the table with his knuckles,
+you’re leaving.” John drummed on the table with his knuckles.
 
 Nannie took his hand.
 
@@ -14459,7 +14464,7 @@ understand each other right now. I simply won’t have you----”
 about her.”
 
 “I don’t want you to have any more to do with her, either,” he dictated
-with suppressed vehemence,
+with suppressed vehemence.
 
 “All right, John,” Lucy submitted again.
 
