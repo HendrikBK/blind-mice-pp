@@ -320,7 +320,7 @@
 );
 
 
-$::bookmarks[0] = '14798.0';
+$::bookmarks[0] = '14779.69';
 
 $::pngspath = 'C:\Users\Win10\Documents\blind-mice-pp\pngs\\';
 
