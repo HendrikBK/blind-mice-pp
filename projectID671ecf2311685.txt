@@ -3432,7 +3432,7 @@ She preserved her air of dignity, but her uneasiness was obvious.
 
 “I don’t understand you, Mr. Sprague. I certainly will not
 be stopped from doing my duty in protecting Lucy no matter if you do
-misunderstand me.
+misunderstand me.”
 
 “Protecting Lucy?” Jim’s eyes hardened.
 
@@ -3893,7 +3893,7 @@ my room.”
 “Well, if you must, you must,” John agreed, “but why didn’t you say so
 before?”
 
-“Good-bye,” Mrs. Merwent,“ Jim said, ignoring John’s question. “Good
+“Good-bye, Mrs. Merwent,“ Jim said, ignoring John’s question. “Good
 night, Lucy.” They shook hands.
 
 “I’ll go to the station with you,” John offered.
@@ -5554,8 +5554,8 @@ remembered Nannie’s enigmatic remark earlier in the evening.
 “Yes, he did. You didn’t see the hostile look he gave me. Lucy and he
 always manage to make us seem foolish!”
 
-“Now, Nannie, you’re imagining,” said John soothingly. “Lucy didn’t say
-anything.”
+“Now, Nannie, you’re imagining,” said John soothingly. Lucy didn’t say
+anything.
 
 “That’s just it!” retorted Mrs. Merwent. “She never does but she always
 sees to it that she and Mr. Sprague----” Nannie’s eyes and mouth opened
@@ -6001,7 +6001,7 @@ funny in what I said. And John is laughing too!”
 “No! I think it was cute!” supplemented John warmly. “I like naïveté.
 People are generally so sophisticated.”
 
-'Well, _you_ like me a little, anyway. Don’t you, John?”
+“Well, _you_ like me a little, anyway. Don’t you, John?”
 
 “I should say I did, Nannie!”
 
@@ -7363,7 +7363,7 @@ had dropped it as he went out, halted near a window and read aloud
 at random the few items which she thought her mother might find of
 interest.
 
-“I see here that Miss Powell was one the of hostesses last night at the
+“I see here that Miss Powell was one of the hostesses last night at the
 Ravenswood Golf Club,” said Lucy in a determinedly pleasant voice,
 laying the paper down.
 
@@ -14791,7 +14791,7 @@ Several times during the weeks that followed the query was repeated.
 
        *       *       *       *       *
 
-On the first of the month the mail brought an unsual number of bills,
+On the first of the month the mail brought an unusual number of bills,
 the largest of which was that of the caterer from whom Lucy had several
 times ordered cakes and ices. After dinner, while John was still seated
 at the table, she went to the desk in the living room and took them
